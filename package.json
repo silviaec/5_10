@@ -1,0 +1,25 @@
+{
+  "name": "14_9",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "basic-card-validator-demo": "^1.0.13",
+    "card-validator": "^5.1.0",
+    "email-validator": "^2.0.4",
+    "react": "^16.5.2",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5",
+    "react-validation": "^3.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-country-region-selector": "^1.4.1"
+  }
+}

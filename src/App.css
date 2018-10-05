@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 1s linear;
+  height: 100px;
+}
+
+.App-header {
+  background-color: rgb(0, 7, 43);
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  font-family: cursive;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.letra {
+  font-family: cursive;
+}
+
+input{
+  margin-top: 5px;
+  margin-right: 30px;
+}
+
+.error{
+  font-family: cursive;
+  color: rgb(252, 4, 4);
+  background-color: rgb(0, 7, 43);
+  font-size: 1em;
+  margin-top: 0px;
+  padding-bottom: 20px;
+}
+.tarjeta{
+  font-family: cursive;
+  color: rgb(252, 4, 4);
+  font-size: 0.7em;
+  margin-top: 0px;
+  padding-bottom: 20px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
