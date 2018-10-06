@@ -25,6 +25,7 @@
 
 .letra {
   font-family: cursive;
+  color: white;
 }
 
 input{
@@ -48,6 +49,20 @@ input{
   padding-bottom: 20px;
 }
 
+html{
+  background: black;
+}
+.CartelFinal{
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+  margin-top: 3em;
+  background-color: black;
+  background: url("fuegos.jpg");
+  color: rgba(255, 255, 255, 0.555);
+  font-size: 5em;
+  padding-bottom: 20px;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
